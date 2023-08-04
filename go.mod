@@ -1,3 +1,3 @@
-module github.tools.sap/cloud-orchestration/bump_version
+module github.tools.sap/sdischer-sap/bump_version
 
 go 1.20
